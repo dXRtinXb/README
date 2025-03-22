@@ -1,7 +1,7 @@
 # My GitHub Profile 🎉
 
 ## About Me 👤
-I am a passionate developer with experience in Python, SQL, and a bit of HTML and CSS. Currently, I am expanding my skills by learning Django and AI mathematics. Additionally, I have basic skills in graphic design and video editing.
+I am a passionate explorer(for now) with experience in Python, SQL, and a bit of HTML and CSS. Currently, I am expanding my skills by learning Django and AI mathematics. Additionally, I have basic skills in graphic design and video editing.
 
 ## Skills 🛠️
 - **Programming Languages:**
