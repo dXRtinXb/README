@@ -1,26 +1,25 @@
-# My GitHub Profile 🎉
-
 ## About Me 👤
 I am a passionate explorer(for now) with experience in Python, SQL, and a bit of HTML and CSS. Currently, I am expanding my skills by learning Django and AI mathematics. Additionally, I have basic skills in graphic design and video editing.
 
-## Skills 🛠️
-- **Programming Languages:**
+
+## 💻 Coding Skills
+- **Languages:**
+  - 🐬 SQL (MySQL)
+  - ☕ Java (Basic)
   - 🐍 Python
-  - 📊 SQL
-  - 🌐 HTML & CSS (basic)
 
-- **Frameworks & Technologies:**
-  - 🚀 Django (currently learning)
+## 🎨 Graphic Design Skills
+- **Software Proficiency:**
+  - 🎞️ Adobe After Effects
+  - 🎥 Adobe Premiere
+  - ✏️ Adobe Illustrator
+  - 🖼️ Adobe Photoshop
 
-- **Graphic Design & Video Editing:**
-  - 🎨 Adobe Illustrator 
-  - 🖼️ Adobe Photoshop (basic)
-  - 🎬 Adobe Premiere (basic)
-  - ✨ Adobe After Effects 
-
-- **Areas of Interest:**
-  - 🤖 Artificial Intelligence
-  - 📐 Mathematics for AI
+## 📚 Current Learning
+- 🤖 AI Mathematics
+- 🟢 Kotlin Language
+- 🌐 HTML
+- 🎨 CSS
 
 ## Projects 💻
 Here are some of the projects I've worked on:
